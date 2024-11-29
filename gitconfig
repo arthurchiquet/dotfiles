@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = arthur.chiquet@gmail.com
+	email = arthurchiquet@gmail.com
 	name = arthur chiquet
